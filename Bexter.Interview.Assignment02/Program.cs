@@ -7,7 +7,7 @@ namespace Bexter.Interview.Assignment01
 
         private static void Main(string[] args)
         {
-            // Welcome to your interview assignment. Do you know the magic square?
+            //Welcome to your interview assignment. Do you know the magic square?~
             //This puzzle comes from Lewis Carroll.
             //The magic part is when the values on a square are arranged,
             //so that adding them up in any direction results in a constant sum.
